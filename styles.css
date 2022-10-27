@@ -1,0 +1,73 @@
+body {
+	margin-top: 50px;
+	font-family: Helvetica;
+	background-color: #9FE2BF;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+h1 {
+	margin-bottom: 5px;
+	font-size: 70px;
+}
+
+h2 {
+	margin-top: 5px;
+	font-size: 30px;
+}
+
+.list {
+	text-align: center;
+}
+
+ol {
+	display: inline-block; 
+	text-align: left;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+div {
+	text-align: center;
+}
+
+
+#challenge {
+	text-align: center;
+	font-size: 45px;
+
+	margin-top: 10px;
+}
+
+img {
+	width:  500px;
+	height: 200px;
+	object-fit: cover;
+}
+
+
+/* <a> Link Color */
+
+
+a {
+	color: blue;
+}
+
+a:hover {
+	background-color: yellow;
+}
+
+a:visited {
+	color: #E453D0;
+}
+
+a:active {
+	color: blue;
+}
+
+.image a:hover {
+	background-color: yellow;
+}
